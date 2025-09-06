@@ -1,4 +1,5 @@
 Welcome to the **Manual Testing Projects**...
+
 This branch will include all my manual testing practice projects, where I explore, design, and document test cases for various applications and platforms. The projects are created for learning and improving testing skills, covering different functionalities, workflows, and testing techniques.
 
 **✅ What to Expect**
