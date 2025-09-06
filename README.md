@@ -1,5 +1,5 @@
-**🟠 Project Overview
-**
+**🟠 Project Overview**
+
 This repository contains the documentation and test cases for a manual testing practice exercise performed on the OpenCart e-commerce platform. The project was created to strengthen my understanding of functional testing, test case design, and exploratory testing processes.
 
 **✅ Key Features Tested**
